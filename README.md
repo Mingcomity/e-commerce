@@ -2,7 +2,7 @@
 
 三创赛项目，主题：移动电子商务
 
-项目采用monorepo进行管理，packages文件夹下为具体项目，api文件夹下为axios请求封装。
+项目采用monorepo进行管理，packages文件夹下为具体项目
 
 分为：
 
