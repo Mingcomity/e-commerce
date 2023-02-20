@@ -4,4 +4,4 @@ packages:
   # 公共的，给我所有的项目使用的公开组件
   # - 'components/**'
   # 公共的方法 api -axios
-  - 'api/**'
+  # - 'api/**'
